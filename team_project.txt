@@ -1,5 +1,7 @@
 Team Project
 Version 1.0
 
+Feature A implemented
 Feature B implemented
 Main branch update
+Feature Rebase implemented
